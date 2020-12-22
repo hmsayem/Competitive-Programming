@@ -1,5 +1,5 @@
 # Competitive Programming
 
-**Snippets:** This folder contains all the codes of all the algorithms I generally use in the programming contests.
+**Snippets:** Contains all the codes of all the algorithms I generally use in the programming contests.
 
-**Solutions:** This folder contains the solutions of my solved problems in various online judges.
+**Solutions:** Contains the solutions of my solved problems in various online judges.
